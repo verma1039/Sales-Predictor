@@ -1,0 +1,13 @@
+Ignore executable files (Windows)
+
+*.exe
+*.o
+
+Ignore Mac/Linux binaries
+
+*.out
+*.app
+
+Ignore VS Code settings (local to your machine)
+
+.vscode/
